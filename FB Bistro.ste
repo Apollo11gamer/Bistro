@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<site SitePrefVersionMajor="12" SitePrefVersionMinor="0">
+    <localinfo sitename="FB%20Bistro" showdiscoverrelatedfilesmsg="TRUE" ftporrdsserver="FALSE" mediaqueryfile="" localroot="D:%5CCST216%5CWIP%5CBistro%5C" assetfolder="D:%5CCST216%5CWIP%5CBistro%5CjQueryAssets%5C" webfontsfolder="D:%5CCST216%5CWIP%5CBistro%5Cwebfonts%5C" edgeassetsfolder="D:%5CCST216%5CWIP%5CBistro%5Canimation_assets%5C" csspreprocessorsoutputuseoption="sameFolder" csspreprocessorscompassuseoption="" csspreprocessorsbourbonuseoption="" csspreprocessorsbourbonneatuseoption="" csspreprocessorsbourbonbittersuseoption="" csspreprocessorsoutputfolder="D:%5CCST216%5CWIP%5CBistro%5Ccss%5C" csspreprocessorsoutputsegmentfrom="" csspreprocessorsoutputsegmentto="" csspreprocessorsinputfolder="D:%5CCST216%5CWIP%5CBistro%5C" csspreprocessorsbourbonpath="C:%5CProgram%20Files%5CAdobe%5CAdobe%20Dreamweaver%202021%5CConfiguration%5CSassFrameworks%5Cbourbon" csspreprocessorsneatpath="C:%5CProgram%20Files%5CAdobe%5CAdobe%20Dreamweaver%202021%5CConfiguration%5CSassFrameworks%5Cneat" csspreprocessorsbitterspath="C:%5CProgram%20Files%5CAdobe%5CAdobe%20Dreamweaver%202021%5CConfiguration%5CSassFrameworks%5Cbase" csspreprocessorenableautocompilation="TRUE" csspreprocessorenablestrictmath="FALSE" csspreprocessorenablestrictunits="FALSE" csspreprocessorrewriteurls="FALSE" csspreprocessorcreatesourcecomments="FALSE" csspreprocessorsaasoutputstyle="nested" csspreprocessorsasssourcemap="FALSE" csspreprocessorlesssourcemap="FALSE" csspreprocessorusecompass="FALSE" csspreprocessorsuseconfigfileforcompass="FALSE" csspreprocessoruserelativeassests="FALSE" csspreprocessorsrubybasedconfigfile="" csspreprocessorshtmlpathforcompass="D:%5CCST216%5CWIP%5CBistro%5Chtml%5C" csspreprocessorsimagesdirectoryforcompass="D:%5CCST216%5CWIP%5CBistro%5Cimages%5C" csspreprocessorsgeneratedimagesdirectoryforcompass="D:%5CCST216%5CWIP%5CBistro%5Cgeneratedimages%5C" csspreprocessorsfontsdirectoryforcompass="D:%5CCST216%5CWIP%5CBistro%5Cfonts%5C" advancedsettingphpversionnumber="PHP%208.4" advancedsettingbootstrapversionnumber="5.3.8" eslintecmaVersion="6" imagefolder="" spacerfilepath="" refreshlocal="TRUE" rewritedocrellinks="FALSE" cache="TRUE" httpaddress="http://student.delta.edu/" relativeTo="DOCUMENT" caseSensitiveLinks="FALSE" curserver="webserver"/>
+    <designnotes usedesignnotes="TRUE" sharedesignnotes="FALSE"/>
+    <sitemap homepage="" pagesperrow="200" columnwidth="125" showdependentfiles="FALSE" showpagetitles="FALSE" showhiddenfiles="FALSE"/>
+    <fileviewcolumns sharecolumns="FALSE">
+        <column name="Local%20Files" align="left" show="TRUE" share="FALSE" builtin="TRUE" localwidth="185" remotewidth="180"/>
+        <column name="Notes" align="center" show="FALSE" share="FALSE" builtin="TRUE" localwidth="56" remotewidth="56"/>
+        <column name="Size" align="right" show="FALSE" share="FALSE" builtin="TRUE" localwidth="-2" remotewidth="-2"/>
+        <column name="Type" align="left" show="TRUE" share="FALSE" builtin="TRUE" localwidth="80" remotewidth="80"/>
+        <column name="Modified" align="left" show="FALSE" share="FALSE" builtin="TRUE" localwidth="122" remotewidth="122"/>
+        <column name="Checked%20Out%20By" align="left" show="FALSE" share="FALSE" builtin="TRUE" localwidth="-1" remotewidth="-1"/>
+</fileviewcolumns>
+    <serverlist>
+        <server servermodel="" servertype="remoteServer" weburl="http://student.delta.edu/" connectionsmigrated="FALSE" serverobjectsversion="1" defaultdoctype="HTML" accesstype="ftp" host="student.delta.edu" remoteroot="D:/CST216/WIP/Bistro//" name="Delta%20College%20Webserver" maintainSyncInfo="TRUE" autoUpload="FALSE" autoSaveDependentFiles="FALSE" autoPushToTestingServer="TRUE" user="jadenriley" pw="4171716F7074373867625E" savePW="TRUE" passphrase="" savepassphrase="FALSE" enablecheckin="FALSE" checkoutname="" checkoutwhenopen="TRUE" emailaddress="" identityfile="" identityfileabsolutepath="" usedefaultauthmethod="TRUE" usefirewall="FALSE" usepasv="TRUE" useSFTP="TRUE" useFTPS="FALSE" useImplicitFTPS="FALSE" encryptOnlyCommandChannel="FALSE" authenticationMode="TRUSTED_CERTIFICATE" useIPv6="FALSE" useftpoptimization="TRUE" usealternaterename="FALSE" pathNameCharacterSet="utf-8"/>
+</serverlist>
+    <cloaking enabled="TRUE" patterns="FALSE">
+        <cloakedfolder folder="dw_php_codehinting.config"/>
+        <cloakedfolder folder="resources/"/>
+        <cloakedpattern pattern=".fla"/>
+        <cloakedpattern pattern=".psd"/>
+        <cloakedpattern pattern=".less"/>
+        <cloakedpattern pattern=".sass"/>
+        <cloakedpattern pattern=".scss"/>
+        <cloakedpattern pattern=".map"/>
+</cloaking>
+    <contributorintegration enabled="FALSE"/>
+</site>
